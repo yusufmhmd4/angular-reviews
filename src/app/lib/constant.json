@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Wade Warren",
+        "role": "Rang",
+        "image": "https://randomuser.me/api/portraits/men/11.jpg",
+        "review": "The most important thing I learnt is that nothing is a failure, but what we learn from that is a rich and rewarding experience."
+    },
+    {
+        "name": "Courtney Henry",
+        "role": "Creative Designer",
+        "image": "https://randomuser.me/api/portraits/women/21.jpg",
+        "review": "Working with the team was a smooth and professional experience. I highly recommend their work ethic and attention to detail."
+    },
+    {
+        "name": "Esther Howard",
+        "role": "Product Manager",
+        "image": "https://randomuser.me/api/portraits/women/44.jpg",
+        "review": "Their ability to deliver high-quality results under tight deadlines was truly impressive. I'd gladly collaborate again."
+    },
+    {
+        "name": "Jacob Jones",
+        "role": "Full-Stack Developer",
+        "image": "https://randomuser.me/api/portraits/men/32.jpg",
+        "review": "A reliable and talented developer who knows how to turn ideas into working solutions quickly and efficiently."
+    }
+]

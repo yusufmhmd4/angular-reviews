@@ -1,0 +1,13 @@
+.user-container img{
+    border-radius: 50%;
+}
+
+.user-container h3{
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.user-container h6{
+    margin-bottom: 10px;
+}
